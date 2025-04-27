@@ -19,6 +19,8 @@ Các vấn đề cần nghiên cứu:
 
 Mục đích:	Hỗ trợ sàng lọc và phát hiện sớm các dấu hiệu bệnh tự kỷ và các bệnh về mắt
 \
+\
+\
 
 **Subject project (Project_report.pdf)**
 
